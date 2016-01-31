@@ -21,7 +21,7 @@ import {PartyForm} from 'client/party-form/party-form';
 })
 export class Socially {
     partiesList: Type;
-    login; Type;
+    login: Type;
     partyForm: Type;
     app: IonicApp;
 
